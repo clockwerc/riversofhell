@@ -1,0 +1,23 @@
+[
+  {
+    "Author": "Clockwerk",
+    "Name": "AetherSense Redux (18+)",
+    "InternalName": "AetherSenseRedux",
+    "AssemblyVersion": "0.7.8789.4241",
+    "Description": "An advanced haptic feedback plugin for game controllers, adult toys, and more using the Buttplug.io library. Requires Intiface Desktop to operate.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/clockwerc/AetherSenseRedux",
+    "Tags": [
+      "parsing",
+      "buttplug",
+      "haptic",
+      "erp"
+    ],
+    "DalamudApiLevel": 9,
+    "LoadPriority": 0,
+    "Punchline": "Advanced haptic feedback using Intiface",
+    "DownloadLinkInstall": "https://github.com/clockwerc/AetherSenseRedux/releases/download/v0.7.0.1/latest.zip",
+    "DownloadLinkTesting": "https://github.com/clockwerc/AetherSenseRedux/releases/download/v0.7.0.1/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/clockwerc/AetherSenseRedux/releases/download/v0.7.0.1/latest.zip"
+  }
+]
